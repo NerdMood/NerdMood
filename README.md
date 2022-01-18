@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NerdMood</h1>
 
 ## GitHub status:
-[![NerdMood's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdMood)](https://github.com/NerdMood/github-readme-stats)
+[![NerdMood's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdMood)](https://github.com/NerdMood)
 
 ## Connect with me: 
 <p align="left">
