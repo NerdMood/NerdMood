@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm NerdMood</h1>
 
+My name is Mahmood Ahmadi!
 
 [![NerdMood's GitHub stats](https://github-readme-stats.vercel.app/api?username=NerdMood)](https://github.com/NerdMood)
 <hr/>
